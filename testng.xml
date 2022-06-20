@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Movie Application">
+  <test name="Movie app testing ">
+    <classes>
+      <class name="MovieApp.MovieApp_Project.AppTest"/>
+      <class name="test.MovieApp_E2E_Test"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
